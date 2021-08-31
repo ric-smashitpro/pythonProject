@@ -45,7 +45,7 @@ finally:
 
 # Task 4
 # import packages to read csv file and write to json file
-# 2. Using file open(), try, for loop, finally file.close()
+# 1. Using file open(), try, for loop, finally file.close()
 import csv, json
 
 data = {}
